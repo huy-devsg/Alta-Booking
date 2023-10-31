@@ -1,0 +1,21 @@
+@font-face {
+ font-family:"dejavu-sans";
+ src:url('../font/dejavu-sans/DejaVuSans.ttf');
+}
+
+@font-face {
+ font-family:"iCiel Koni";
+ src:url('../font/Full-iCiel-font/Full-iCiel-font/Font-iciel-viet-hoa/iCiel Koni Black.otf');
+ src:url('../font/Full-iCiel-font/Full-iCiel-font/Font-iciel-viet-hoa/iCiel Koni Black.ttf');
+}
+
+@font-face {
+ font-family:"montserrat medium";
+ src:url('../font/montserrat/Montserrat-Light.ttf');
+}
+
+/*@font-face {
+ font-family:"montserrat-bold";
+ src:url('../font/Full-iCiel-font/Full-iCiel-font/Font-iciel-viet-hoa/iCiel Koni Black.otf');
+ src:url('../font/Full-iCiel-font/Full-iCiel-font/Font-iciel-viet-hoa/iCiel Koni Black.ttf');
+}*/
